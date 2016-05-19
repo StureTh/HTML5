@@ -30,3 +30,4 @@ C:\Users\Sture\Documents\GitHub\HTML5CSS\Lab01\Lab01HTML\FlygstolenDemo\bin\Micr
 C:\Users\Sture\Documents\GitHub\HTML5CSS\Lab01\Lab01HTML\FlygstolenDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Sture\Documents\GitHub\HTML5CSS\Lab01\Lab01HTML\FlygstolenDemo\obj\Debug\FlygstolenDemo.dll
 C:\Users\Sture\Documents\GitHub\HTML5CSS\Lab01\Lab01HTML\FlygstolenDemo\obj\Debug\FlygstolenDemo.pdb
+C:\Users\Sture\Documents\GitHub\HTML5CSS\Lab01\Lab01HTML\FlygstolenDemo\obj\Debug\FlygstolenDemo.csprojResolveAssemblyReference.cache
