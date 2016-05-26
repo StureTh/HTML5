@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlygstolenDemo", "Flygstole
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02", "Lab02\Lab02.csproj", "{12DA3A2E-CC9A-4E73-BC3A-7A9E9C0CBFDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootStrapDemo", "BootStrapDemo\BootStrapDemo.csproj", "{4A2AEE77-F35C-444C-B474-7A48E22ACF68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{12DA3A2E-CC9A-4E73-BC3A-7A9E9C0CBFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12DA3A2E-CC9A-4E73-BC3A-7A9E9C0CBFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12DA3A2E-CC9A-4E73-BC3A-7A9E9C0CBFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2AEE77-F35C-444C-B474-7A48E22ACF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2AEE77-F35C-444C-B474-7A48E22ACF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2AEE77-F35C-444C-B474-7A48E22ACF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2AEE77-F35C-444C-B474-7A48E22ACF68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
