@@ -106,7 +106,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\audeze lcd-x 2.jpg" />
     <Content Include="images\carlsson5.jpg" />
+    <Content Include="images\h800s.jpg" />
+    <Content Include="images\t1.jpg" />
     <Content Include="indexlab03.html" />
     <Content Include="pages\adjustablepage.html" />
     <Content Include="pages\lab03style.css" />

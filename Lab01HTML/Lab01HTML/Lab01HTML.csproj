@@ -103,7 +103,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Pages\FormsDemo.html" />
+    <Content Include="Pages\Formslab2.html" />
     <Content Include="Videos\MrBean.ogv" />
     <Content Include="Videos\MrBean.webm" />
     <None Include="Web.Debug.config">
