@@ -1,0 +1,11 @@
+﻿body{
+    background-color: lawngreen;
+}
+@media (max-width: 480px) {
+    body {
+        background-color: yellow;
+    }
+    #main{
+        font-size: 2em;
+    }
+}
