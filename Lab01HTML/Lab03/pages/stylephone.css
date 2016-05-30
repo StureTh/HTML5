@@ -1,0 +1,38 @@
+﻿#body{
+    height:800px;
+    width:400px;
+    background-color:white;
+    border:5px solid gray;
+    position:absolute;
+    top:40%;
+    left:40%;
+    border-radius:60px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+        
+}
+#display{
+    height:75%;
+    width:85%;
+    background-color:black;
+    border-radius:10px;
+}
+#button{
+    height:80px;
+    width:80px;
+    border-radius:100%;
+    background-color:lightgrey;
+    position:absolute;
+    bottom:10px;
+    right:40%;
+}
+#ear{
+    height:5px;
+    width:70px;
+    background-color:black;
+    border-radius:20%;
+    position:absolute;
+    top:15px;
+    right:45%;
+}

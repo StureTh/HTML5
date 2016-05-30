@@ -94,6 +94,22 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\calcylator.png" />
+    <Content Include="images\Camera.png" />
+    <Content Include="images\clock.png" />
+    <Content Include="images\contacts.png" />
+    <Content Include="images\game_center.png" />
+    <Content Include="images\Mail.png" />
+    <Content Include="images\maps_.png" />
+    <Content Include="images\messages.png" />
+    <Content Include="images\Music.png" />
+    <Content Include="images\phone.png" />
+    <Content Include="images\photos.png" />
+    <Content Include="images\Safari.png" />
+    <Content Include="images\Settings.png" />
+    <Content Include="images\store.png" />
+    <Content Include="images\videos.png" />
+    <Content Include="images\weather.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -114,7 +130,9 @@
     <Content Include="pages\adjustablepage.html" />
     <Content Include="pages\lab03style.css" />
     <Content Include="pages\mobilelab03.css" />
+    <Content Include="pages\phone.html" />
     <Content Include="pages\PostIt.html" />
+    <Content Include="pages\stylephone.css" />
     <Content Include="pages\stylePostIt.css" />
     <Content Include="pages\tabletlab03.css" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
