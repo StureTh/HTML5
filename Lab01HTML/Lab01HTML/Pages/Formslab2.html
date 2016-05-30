@@ -8,24 +8,60 @@
     <!-- Allt som ligger här inne i form postas till en annan sida -->
 
     <form action="../index.html" name="myform">
+        
+            <h2>User Info</h2>
+            <label for="name">Name;</label>
+            <input id="name" name="Name" />
+            <br />
+            <label for="lastname">Lastname</label>
+            <input id="lastname" name="Lastname" />
+            <br />
+            <label for="email">Email</label>
+            <input id="email" name="Email" type="email" required />
+            <br />
+            <label for="password">Password</label>
+            <input id="password" name="Password" type="password" required />
 
-        <label for="name">Name;</label>
+        <h2>Delivery address</h2>
+        <label for="name">Name</label>
         <input id="name" name="Name" />
         <br />
-        <label for="lastname">Lastname</label>
-        <input id="lastname" name="Lastname" />
+        <label for="street">Street</label>
+        <input id="street" name="Street" />
         <br />
-        <label for="email">Email</label>
-        <input id="email" name="Email" type="email" required/>
+        <label for="zip">Zip</label>
+        <input id="<zip" name="Zip" />
         <br />
-        <label for="password">Password</label>
-        <input id="password" name="Password" type="password" required />
+        <label for="town">Town</label>
+        <input  form="town" name="TOwn"/>
+        <br />
+        <label for="phone">Phone</label>
+        <input form="phone" name="Phone" />
+        <br />
+        <h2>Payment Address</h2>
+        <label for="name">Name</label>
+        <input id="name" name="name" />
+        <br />
+        <label for="street">Street</label>
+        <input id="street" name="Street" />
+        <br />
+        <label for="zip">Zip</label>
+        <input id="<zip" name="Zip" />
+        <br />
+        <label for="town">Town</label>
+        <input form="town" name="TOwn" />
+        <br />
+        <label for="phone">Phone</label>
+        <input form="phone" name="Phone" />
+        <br />
+        <label for="projectnumber">Projectnumber</label>
+        <input form="projectnumber" name="Projectnumber" />
         <!--<input type="date" />
         <input type="datetime" />
         <input type="week" />-->
-        
 
-        <input type="submit" value="Skicka" />
+
+        <input type="submit" value="Confirm" />
 
     </form>
 </body>

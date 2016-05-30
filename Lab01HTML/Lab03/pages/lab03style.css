@@ -6,4 +6,19 @@
 }
 li{
         display:inline;
+        width:100%;
     }
+nav{
+    background-color:dimgrey;
+    display:flex;
+    justify-content:center;
+    text-decoration:none;
+    font-size:2em;
+
+}
+nav li:hover{
+    background-color:black;
+}
+body{
+    margin:0;
+}

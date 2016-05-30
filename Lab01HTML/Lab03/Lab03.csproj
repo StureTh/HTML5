@@ -114,6 +114,8 @@
     <Content Include="pages\adjustablepage.html" />
     <Content Include="pages\lab03style.css" />
     <Content Include="pages\mobilelab03.css" />
+    <Content Include="pages\PostIt.html" />
+    <Content Include="pages\stylePostIt.css" />
     <Content Include="pages\tabletlab03.css" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />

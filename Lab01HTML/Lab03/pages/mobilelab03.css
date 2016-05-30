@@ -1,7 +1,8 @@
 ﻿
-@media (max-width: 480px) {
+@media (max-width: 550px) {
     body {
         background-color: yellow;
+        margin:0;
     }
     #main{
         font-size: 2em;
@@ -17,5 +18,8 @@
     }
     li{
         display:inline;
+    }
+    nav{
+        font-size:1.5em;
     }
 }
