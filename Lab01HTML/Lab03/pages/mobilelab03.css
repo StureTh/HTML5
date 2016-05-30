@@ -1,6 +1,4 @@
-﻿body{
-    background-color: lawngreen;
-}
+﻿
 @media (max-width: 480px) {
     body {
         background-color: yellow;
@@ -16,5 +14,8 @@
     #pics img{
         width:100%;
         margin: 4px;
+    }
+    li{
+        display:inline;
     }
 }

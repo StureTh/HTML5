@@ -1,8 +1,9 @@
 ﻿
-     
-        #art{
-            background-color:lawngreen;  
-            border: 2px solid gray;
-        }
-    
 
+#art {
+    background-color: lawngreen;
+    border: 2px solid gray;
+}
+li{
+        display:inline;
+    }
