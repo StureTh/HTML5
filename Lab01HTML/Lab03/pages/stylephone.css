@@ -17,6 +17,9 @@
     width:85%;
     background-color:black;
     border-radius:10px;
+    display:flex;
+    flex-wrap:wrap;
+    flex-flow:wrap;
 }
 #button{
     height:80px;
@@ -35,4 +38,10 @@
     position:absolute;
     top:15px;
     right:45%;
+}
+.icon{
+    width:10px;
+}
+.icon img{
+    width:70px;
 }

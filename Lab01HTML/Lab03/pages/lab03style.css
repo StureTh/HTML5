@@ -22,3 +22,10 @@ nav li:hover{
 body{
     margin:0;
 }
+#pics img{
+    max-width:100%;
+
+}
+#pics{
+    max-width:768px;
+}
