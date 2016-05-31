@@ -99,11 +99,13 @@
     <Content Include="HTMLPictures\carlsson3.jpg" />
     <Content Include="HTMLPictures\carlsson4.png" />
     <Content Include="HTMLPictures\carlsson5.jpg" />
+    <Content Include="HTMLPictures\OD11.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Pages\Formslab2.html" />
+    <Content Include="Pages\Receipt.html" />
     <Content Include="Videos\MrBean.ogv" />
     <Content Include="Videos\MrBean.webm" />
     <None Include="Web.Debug.config">
