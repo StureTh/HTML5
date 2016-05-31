@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootStrapPractise", "BootSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03", "Lab03\Lab03.csproj", "{901A20B3-BB73-41A1-9DDE-E149CA205CB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04", "Lab04\Lab04.csproj", "{F8D9DE18-A453-4B9B-827A-61538ACEA830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiningpics", "spiningpics\spiningpics.csproj", "{D2F1D3C8-62E2-4496-9285-83E671635D6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{901A20B3-BB73-41A1-9DDE-E149CA205CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{901A20B3-BB73-41A1-9DDE-E149CA205CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{901A20B3-BB73-41A1-9DDE-E149CA205CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D9DE18-A453-4B9B-827A-61538ACEA830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D9DE18-A453-4B9B-827A-61538ACEA830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D9DE18-A453-4B9B-827A-61538ACEA830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D9DE18-A453-4B9B-827A-61538ACEA830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F1D3C8-62E2-4496-9285-83E671635D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F1D3C8-62E2-4496-9285-83E671635D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F1D3C8-62E2-4496-9285-83E671635D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F1D3C8-62E2-4496-9285-83E671635D6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
