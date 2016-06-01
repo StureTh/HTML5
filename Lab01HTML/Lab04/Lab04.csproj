@@ -103,6 +103,8 @@
     <Content Include="pages\gallerystyle.css" />
     <Content Include="pages\media.html" />
     <Content Include="pages\mediastyle.css" />
+    <Content Include="pages\mobileindexstyle.css" />
+    <Content Include="pages\mobilemediastyle.css" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

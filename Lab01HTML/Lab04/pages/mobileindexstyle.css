@@ -1,0 +1,74 @@
+﻿@media (max-width: 480px) {
+    #head {
+        height: 170px;
+        background: url('../images/lab4header.jpg') no-repeat fixed top;
+        width: 100%;
+        margin: 0;
+    }
+
+        #head h1 {
+            position: absolute;
+            text-align: center;
+            width: 100%;
+        }
+
+    #menu {
+        background-color: dimgrey;
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        font-size: 1.0em;
+        color: whitesmoke;
+    }
+
+    #foot {
+        background-color: dimgrey;
+        display: flex;
+        text-decoration: none;
+        color: whitesmoke;
+    }
+
+    li a {
+        width: 100%;
+        text-decoration: none;
+        color: whitesmoke;
+    }
+
+    li {
+        display: inline;
+        width: 100%;
+    }
+
+    body {
+        margin: 0;
+        background: url('../images/backgroundlab4.jpg') no-repeat fixed center;
+    }
+
+    aside p {
+        font-size: 1.0em;
+    }
+
+    aside {
+        background-color: rgba(255, 255, 255, 0.40);
+        border-radius: 15%;
+        padding: 25px;
+    }
+
+    section {
+        background-color: rgba(255, 255, 255, 0.40);
+        border-radius: 15%;
+        padding: 25px;
+        font-size: 1.0em;
+    }
+
+    article {
+        font-size: 1.0em;
+        background-color: rgba(255, 255, 255, 0.40);
+        border-radius: 15%;
+        padding: 25px;
+    }
+
+    address {
+        margin: 6px;
+    }
+}
