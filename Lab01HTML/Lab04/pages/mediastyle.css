@@ -41,3 +41,7 @@ body {
     background: url('../images/backgroundlab4.jpg') no-repeat fixed center;
     
 }
+#tv{
+    position:absolute;
+    pointer-events:none;
+}
