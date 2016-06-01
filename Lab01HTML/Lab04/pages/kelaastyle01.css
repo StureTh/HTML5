@@ -19,6 +19,12 @@
     font-size:1.5em;
     color:whitesmoke;
 }
+#foot{
+    background-color:dimgrey;
+    display:flex;
+    text-decoration:none;
+    color:whitesmoke;
+}
 li a{
     
     width:100%;
@@ -37,16 +43,27 @@ body {
 }
 aside p{
     font-size:1.5em;
+    
 }
 aside{
     background-color:rgba(255, 255, 255, 0.40);
     border-radius:15%;
     padding:25px;
 }
+section{
+     background-color:rgba(255, 255, 255, 0.40);
+    border-radius:15%;
+    padding:25px;
+    font-size:1.5em;
+}
+
 article{
     font-size:1.5em;
     background-color:rgba(255, 255, 255, 0.40);
     border-radius:15%;
     padding:25px;
+}
+footer{
+    margin:2px;
 }
 
