@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="audio\Baywatch %28Intro%29.mp3" />
     <Content Include="images\muray.png" />
     <Content Include="images\Seaweed.png" />
     <Content Include="images\tvmedia.png" />

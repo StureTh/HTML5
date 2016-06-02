@@ -22,7 +22,37 @@
     position:absolute;
      z-index:99;
      height:100px;
-     width:200px;   
+     width:200px;
+     animation:swim 10s infinite;  
+}
+@keyframes swim{
+    0%{top:0%;
+       transform:rotate(0deg);
+       left:0%;
+
+    }
+    25%{top:0%;
+       transform:rotate(0deg);
+
+        left:70%;
+    }
+    50%{top:40000%;
+       transform:rotate(0deg);
+
+        left:70%;
+    }
+    75%{top:40000%;
+       transform:rotate(20000deg);
+
+        left:1%;
+    }
+    100%{
+         bottom:0;
+         
+         top:70%;
+
+         
+    }
 }
 .container{
     position:relative;
