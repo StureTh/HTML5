@@ -104,6 +104,7 @@
     <Content Include="pages\gallerystyle.css" />
     <Content Include="pages\media.html" />
     <Content Include="pages\mediastyle.css" />
+    <Content Include="pages\mobileformstyle.css" />
     <Content Include="pages\mobilegallerystyle.css" />
     <Content Include="pages\mobileindexstyle.css" />
     <Content Include="pages\mobilemediastyle.css" />
